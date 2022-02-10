@@ -4,7 +4,7 @@
 * **Samuel Hinga**
 * **Bruno Gatiba**
 * **Vionna Osiako**
-* **Gladys Wanga**
+* **Gladys Mwangi**
 * **Daniel Wanyonyi**
 ## Description
 Hire Me bridges the gap between people hiring out products and people seeking to hire products. Our site requires people hiring out products to sign up and verify their information to ensure that the clients 'people seeking to hire' hire from credible sources. People seeking to hire need no signing up as the contact information of people hiring out the product is already indicated. It is our vision to push this website to many users so that we may upgrade to more products and improve overall.
