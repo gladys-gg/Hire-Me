@@ -32,6 +32,6 @@ Copyright (c) 2022 **Geoffrey Gichaga**
 **Samuel Hinga**
 **Bruno Gatiba**
 **Vionna Osiako**
-**Gladys Wanga**
+**Gladys Mwangi**
 **Daniel Wanyonyi**
 ***Moringa School***
